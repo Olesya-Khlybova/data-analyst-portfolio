@@ -1,4 +1,4 @@
-# [SQL_shops_sales - проект](https://github.com/Olesya-Khlybova/data-analyst-portfolio/blob/main/sql_shops_sales/sql_shops_sales.ipynb)
+# [Анализ продаж сети магазинов](https://github.com/Olesya-Khlybova/data-analyst-portfolio/blob/main/sql_shops_sales/sql_shops_sales.ipynb)
 ## Данные
 В нашем распоряжении база данных, в которой содержится информация об офлайн магазинах, товарных категориях и товарах, а также продажах торговой сети.
 ## Цель исследования
