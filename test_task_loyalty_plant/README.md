@@ -1,4 +1,4 @@
-# [Очистка и фильтрация данных]([https://github.com/Olesya-Khlybova/data-analyst-portfolio/blob/main/clean_filter_data/clean_filter_data.ipynb](https://github.com/Olesya-Khlybova/data-analyst-portfolio/blob/main/test_task_loyalty_plant/clean_filter_data.ipynb))
+# [Очистка и фильтрация данных](https://github.com/Olesya-Khlybova/data-analyst-portfolio/blob/main/test_task_loyalty_plant/clean_filter_data.ipynb)
 ## Данные
 В нашем распоряжении csv-файл, в котором содержится информация об активности пользователей.
 ## Цель 
